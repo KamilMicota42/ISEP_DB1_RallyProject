@@ -1,0 +1,13 @@
+List of constraints that cannot be represented in the data model.
+
+- A vehicle can only be of one kind at a time: a vehicle, for example, can't be a bike and a car at the same time.
+
+- "It is good not to forget that, for example, a motorcycle team cannot race with a vehicle that 
+is a truck."
+
+- "Each of the participants can only be in one team (it makes no sense for 
+anyone, for example, to be a pilot or co-pilot of one team and at the same time a pilot 
+or co-pilot of another!)."
+
+- "Nothing requires all members of a team to be of the same nationality. But the nationality of 
+the team has to be one (any) of the nationalities of its members."
